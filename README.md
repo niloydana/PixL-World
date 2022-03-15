@@ -1,5 +1,7 @@
 # PixL World
 
+*https://pixl-world.netlify.app/*
+
 An open-source site, open for contribution, even though I don't know how to contribute lol.
 
 ## 🚥 Site status 🚥
