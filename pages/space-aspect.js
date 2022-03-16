@@ -48,10 +48,17 @@ player.draw();
 console.log(player);
 
 addEventListener("click", (event) => {
-  var myArray = ["#595F72", "#575D90", "#84A07C", "##F7F7FF", "#E6F14A"];
+  var myColours = ["#595F72", "#575D90", "#84A07C", "##F7F7FF", "#E6F14A"];
+  var myRadius = [1, 8, 6, 15, 5];
 
-  var randomColour = myArray[Math.floor(Math.random() * myArray.length)];
-  const enemy = new Enemy(event.clientX, event.clientY, 7, randomColour);
+  var randomColour = myColours[Math.floor(Math.random() * myColours.length)];
+  var randomRadius = myRadius[Math.floor(Math.random() * myRadius.length)];
+  const enemy = new Enemy(
+    event.clientX,
+    event.clientY,
+    randomRadius,
+    randomColour
+  );
 
   enemy.draw();
 });
