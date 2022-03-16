@@ -2,7 +2,7 @@
 
 *https://pixl-world.netlify.app/*
 
-An open-source site, open for contribution.
+An open-source site, open for [contribution](https://pixl-world.netlify.app/).
 
 ## Objective
 
