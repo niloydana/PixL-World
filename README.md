@@ -2,11 +2,13 @@
 
 *https://pixl-world.netlify.app/*
 
-An open-source site, open for [contribution](https://pixl-world.netlify.app/).
+An open-source site, open for [contribution](https://github.com/Soham485/PixL-World#contribution).
 
-## Objective
+## Aim
 
-PixL World's objective is to become a multi-purpose site focused on games, chatting and more!
+PixL World's aim is to become a multi-purpose site focused on games, chatting and more!
+
+## Contribution
 
 ## 🚥 Site status 🚥
 
