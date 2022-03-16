@@ -1,3 +1,5 @@
+console.log("Visited space-aspect.html");
+
 const canvas = document.querySelector("canvas");
 const ctx = canvas.getContext("2d");
 
@@ -44,3 +46,12 @@ const player = new Player(x, y, 30, "#16BAC5");
 player.draw();
 
 console.log(player);
+
+addEventListener("click", (event) => {
+  var myArray = ["#595F72", "#575D90", "#84A07C", "#C3D350", "#E6F14A"];
+
+  var randomColour = myArray[Math.floor(Math.random() * myArray.length)];
+  const enemy = new Enemy(event.clientX, event.clientY, 7, randomColour);
+
+  enemy.draw();
+});
