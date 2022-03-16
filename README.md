@@ -10,7 +10,7 @@ PixL World's aim is to become a multi-purpose site focused on games, chatting an
 
 ## Contribution
 
-Help is welcome! If you want to contribute, you can by making a [pull request](https://github.com/Soham485/PixL-World/pulls)!
+Help is welcome! If you want to contribute, you can by making a [pull request](https://github.com/Soham485/PixL-World/pulls)! If your request is accepted, your changes will appear in the source code!
 
 ## 🚥 Site status 🚥
 
