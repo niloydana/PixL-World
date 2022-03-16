@@ -10,6 +10,8 @@ PixL World's aim is to become a multi-purpose site focused on games, chatting an
 
 ## Contribution
 
+Help is welcome! If you want to contribute, you can by making a [pull request](https://github.com/Soham485/PixL-World/pulls)!
+
 ## 🚥 Site status 🚥
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/29d5ce76-53a3-48f7-a471-67e449611ac8/deploy-status)](https://pixl-world.netlify.app/)
